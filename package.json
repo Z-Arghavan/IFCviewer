@@ -1,0 +1,21 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@comunica/query-sparql": "^4.1.0",
+    "node-polyfill-webpack-plugin": "^4.1.0",
+    "three": "^0.135.0",
+    "web-ifc-viewer": "^1.0.218"
+  },
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
